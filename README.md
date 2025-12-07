@@ -38,8 +38,8 @@ Created by [syaafiudinm](https://github.com/syaafiudinm)
 
 1. Clone the repository
 ```bash
-git clone https://github.com/syaafiudinm/laract-starter-kit.git
-cd laract-starter-kit
+git clone https://github.com/syaafiudinm/inertia-starter-kit.git
+cd inertia-starter-kit
 ```
 
 2. Install PHP dependencies
